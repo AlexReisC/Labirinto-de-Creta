@@ -1,0 +1,17 @@
+============================================================
+RELATÓRIO DA SIMULAÇÃO - LABIRINTO DE CRETA
+============================================================
+
+✓ RESULTADO: PRISIONEIRO ESCAPOU COM SUCESSO!
+
+Tempo restante de alimento: 58 unidades
+Tempo total decorrido: 22 unidades de tempo
+Número de turnos: 7 turnos
+
+Caminho percorrido pelo prisioneiro:
+  0 -> 1 -> 3 -> 7 -> 4 -> 8 -> 11 -> 14
+  Total de vértices visitados: 8
+
+O Minotauro não detectou o prisioneiro durante a simulação.
+
+============================================================
