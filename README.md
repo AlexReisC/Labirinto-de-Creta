@@ -28,4 +28,4 @@ Uso rápido:
 python main.py grafo.txt saida.txt
 
 ## Video Explicativo
-![Labirinto de Creta - Alex Reis](https://youtu.be/8_clRi-yHIU)
+[Labirinto de Creta - Alex Reis](https://youtu.be/8_clRi-yHIU)
